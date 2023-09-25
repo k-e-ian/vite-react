@@ -26,32 +26,34 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/k-e-ian/vite-react-todo-app.git
    ```
-Change your working directory to the project folder:
+2. Change your working directory to the project folder:
 
-```bash
-cd vite-react-todo-app```
+  ```bash
+  cd vite-react-todo-app
+  ```
 
-Install project dependencies:
+3. Install project dependencies:
 
-```bash
-
-    npm install```
+  ```bash
+  npm install
+  ```
 
 ### Usage
 
-To start the development server and run the Todo App locally, use the following command:
+1. To start the development server and run the Todo App locally, use the following command:
 
-```bash
+  ```bash
+  npm run dev
+  ```
 
-npm run dev```
+2. The app will be available at http://localhost:3000. You can access it in your web browser.
 
-The app will be available at http://localhost:3000. You can access it in your web browser.
-Features
+## Features
 
-    *Create new tasks with a title.
-    *Mark tasks as completed by checking a checkbox.
-    *Delete tasks you no longer need.
-    *Data persistence using localStorage.
-    *Clean and responsive user interface.
+  * Create new tasks with a title.
+  * Mark tasks as completed by checking a checkbox.
+  * Delete tasks you no longer need.
+  * Data persistence using localStorage.
+  * Clean and responsive user interface.
 
 
